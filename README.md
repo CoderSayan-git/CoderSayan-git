@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CoderSayan-git
 - 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning #Django#
+- 🌱 I’m currently learning <b>Django</b>
 - 💞️ I’m looking to collaborate on any projects of web development
-- 📫 Reach me at @sayandhara143@gmail.com
+- 📫 Reach me at sayandhara143@gmail.com
 
 <!---
 CoderSayan-git/CoderSayan-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
