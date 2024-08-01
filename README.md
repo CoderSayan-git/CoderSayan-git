@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderSayan-git
 - 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning <b>Django</b>
+- 🌱 I’m currently learning <b>JS</b>
 - 💞️ I’m looking to collaborate on any projects of web development
 - 📫 Reach me at sayandhara143@gmail.com
 
