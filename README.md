@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @CoderSayan-git
+- 😎 Competitive Programmer using C++
 - 👀 I’m interested in WebDevelopment
 - 🌱 I’m currently learning <b>JS</b>
 - 💞️ I’m looking to collaborate on any projects of web development
